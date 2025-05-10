@@ -1,0 +1,15 @@
+[package]
+name = "larrust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+clap = { version = "4.0", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sysinfo = "0.29.0"
+anyhow = "1.0"
+which = "4.0"
+dialoguer = "0.11.0"
+libc = "0.2"

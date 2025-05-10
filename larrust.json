@@ -1,0 +1,11 @@
+{
+  "web_server": "apache2",
+  "database": "mysql",
+  "php_version": "8.2",
+  "phpmyadmin": {
+    "enabled": true,
+    "port": 8081,
+    "ip": "127.0.0.1",
+    "path": "phpmyadmin"
+  }
+}
