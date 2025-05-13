@@ -1,0 +1,13 @@
+
+### 📝 Explicación de las mejoras:
+
+- **Introducción**: Ahora explica qué es **Larrust** y su propósito.
+- **Requisitos**: Se agregó la necesidad de tener Rust y cargo instalados.
+- **Instrucciones de instalación más detalladas**: Se explicó cómo clonar el repositorio, compilar el proyecto y configurar el alias.
+- **Comandos explicados**: Los comandos son ahora más detallados, con ejemplos claros sobre cómo iniciar los servicios con y sin phpMyAdmin, cómo detenerlos y cómo crear un nuevo proyecto.
+- **Personalización**: Se mencionó la posibilidad de personalizar Larrust.
+- **Contribuciones y licencia**: Se añadió una sección para contribuir al proyecto y se mencionó la licencia MIT.
+
+---
+
+Si necesitas más personalización o alguna otra mejora en el `README.md`, ¡déjame saber!
